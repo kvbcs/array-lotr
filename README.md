@@ -7,7 +7,7 @@ slice()
 Énoncé : Utilise slice() pour créer un sous-tableau avec les premiers 4 membres de la communauté de l'anneau.
 
 push(), pop(), shift(), unshift()
-Énoncé : Ajoute Gollum au début de la communauté avec unshift(), retire Boromir avec pop(), puis ajoute Faramir à la fin avec push(). Utilise également shift() pour retirer le premier membre.
+Énoncé : Ajoute Gollum au début de la communauté avec unshift(), retire Boromir avec splice(), puis ajoute Faramir à la fin avec push(). Utilise également shift() pour retirer le premier membre.
 
 splice()
 Énoncé : Utilise splice() pour retirer Gimli et Legolas du tableau et les stocker dans un tableau séparé, puis affiche les deux tableaux.
